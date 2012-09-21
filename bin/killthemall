@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'elasesino'
+
+Elasesino::Killer.new.kill_them_all
+
