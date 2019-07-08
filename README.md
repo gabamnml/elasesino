@@ -1,5 +1,7 @@
 # Elasesino
 
+[![Gem Version](https://badge.fury.io/rb/elasesino.svg)](https://badge.fury.io/rb/elasesino)
+
 Fast command which I clean my doomed project of the Damned .orig
 
 ## Installation
